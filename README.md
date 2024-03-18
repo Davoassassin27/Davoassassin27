@@ -44,8 +44,8 @@ I started programming focused on data security at the age of 12, when I particip
 
 ## GitHub stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssanjua&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davoassassin27&show_icons=true&theme=transparent)
 
 ## Repo languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davoassassin27&layout=compact)
