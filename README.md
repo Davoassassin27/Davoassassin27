@@ -1,16 +1,51 @@
-### Hi there 👋
+# Hi there, Im David Soler 👋
 
-<!--
-**Davoassassin27/Davoassassin27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=7000&pause=500&color=CF0000&width=500&lines=DATA+SCIENTIST+%26+FUTURE+DEVELOPER" alt="Typing SVG" /></a>
+<p align="center">
 
-Here are some ideas to get you started:
+🔥 I'm currently working as Data Scientist consultant and instructor at GrowUP Data Analytics.
+💡 Looking to collaborate on new projects and Challenges.
+🤔 I’m looking for help with optimizing Machine Learning algorithms and AI.
+📹 I'm also a musician, you can check out my material above on Spotify.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- Python
+- SQL
+- Machine Learning
+- Deep Learning
+- Pytorch
+- TensorFlow
+- Computer Vision
+- ETL/ELT
+- NoSQL
+- Cloud Computing
+- Statistics
+- Aplied mathematics
+- Big data (Apache Systems, Docker)
+- Data Visualization
+- Business Intelligence
+- Storytelling
+
+## 👩🏻‍💻 Main skills:
+
+[![My Skills](https://skillicons.dev/icons?i=aiscript,r,anaconda,py,sql,vscode,gcp,flask,tensorflow,ubuntu&theme=light)](https://skillicons.dev)
+
+## 🔗 Contact me:
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/david-soler-aa200b240/)
+
+## ⚡ Fun fact:
+
+I started programming focused on data security at the age of 12, when I participated in math and language tournaments.
+
+👩🏻‍💻 + 🎮 + ❤️ + 🧠 = 🎨👌🏼
+
+## GitHub stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssanjua&show_icons=true&theme=transparent)
+
+## Repo languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact)
