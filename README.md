@@ -12,7 +12,7 @@
 #### 🧋  Specialty coffee enthusiast & barista at heart
 #### 🏃‍♂️  High-performance athlete as a triple jumper, driven by discipline
 
-<img width="90%" height=300 src="./assets/yo-lof.gif" alt="Lofi Animation">
+<img width="90%" height=400 src="./assets/yo-lof.gif" alt="Lofi Animation">
 
 ## 🛠 Skills
 
