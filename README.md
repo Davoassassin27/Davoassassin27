@@ -12,20 +12,9 @@
 #### 🧋  Specialty coffee enthusiast & barista at heart
 #### 🏃‍♂️  High-performance athlete as a triple jumper, driven by discipline
 
-<img width="100%" src="./assets/yo-lof.gif" alt="Lofi Animation">
+<img width="90%" height=300 src="./assets/yo-lof.gif" alt="Lofi Animation">
 
 ## 🛠 Skills
-
-<style>
-.skill-icon {
-  transition: transform 0.2s;
-  display: inline-block;
-  margin: 0 8px 12px 8px;
-}
-.skill-icon:hover {
-  transform: scale(1.25);
-}
-</style>
 
 <p align="center">
   <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" title="Python"/>
