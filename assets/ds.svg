@@ -1,0 +1,126 @@
+<svg width="100%" height="500" viewBox="0 0 2000 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1">
+        <animate attributeName="stop-color" values="#6366f1;#8b5cf6;#6366f1" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#06b6d4">
+        <animate attributeName="stop-color" values="#06b6d4;#6366f1;#06b6d4" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e0e7ff"/>
+      <stop offset="100%" stop-color="#cffafe"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowStrong">
+      <feGaussianBlur stdDeviation="16" result="coloredBlur"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="22" flood-color="#8b5cf6" flood-opacity="0.3"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="whiteGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3.5" flood-color="#fff" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <!-- Distribución horizontal: Logo | Separador | Texto | Tags -->
+  <!-- Logo DS -->
+  <g id="logo" transform="translate(200,250)">
+    <circle cx="0" cy="0" r="90" fill="none" stroke="url(#neonGrad)" stroke-width="6" opacity="0.5">
+      <animate attributeName="r" values="90;110;90" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;0.7;0.5" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="0" text-anchor="middle" dominant-baseline="middle"
+      font-family="'Inter', -apple-system, BlinkMacSystemFont, sans-serif"
+      font-size="110" font-weight="900"
+      fill="url(#neonGrad)" filter="url(#glowStrong)">
+      DS
+      <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
+    </text>
+  </g>
+
+  <!-- Separador -->
+  <line x1="350" y1="100" x2="350" y2="400" stroke="url(#neonGrad)" stroke-width="10" opacity="0.5">
+    <animate attributeName="opacity" values="0;0.5" dur="1.5s" fill="freeze"/>
+  </line>
+
+  <!-- Texto principal -->
+  <g id="mainText" transform="translate(450, 250)">
+    <text x="0" y="-20"
+      font-family="'Inter', -apple-system, BlinkMacSystemFont, sans-serif"
+      font-size="120" font-weight="700"
+      fill="url(#textGrad)"
+      stroke="#fff" stroke-width="3"
+      paint-order="stroke"
+      filter="url(#whiteGlow)">
+      David Soler
+      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.5s" fill="freeze"/>
+      <animate attributeName="x" values="-60;0" dur="0.8s" begin="0.5s" fill="freeze"/>
+    </text>
+    <text x="0" y="80"
+      font-family="'Inter', -apple-system, BlinkMacSystemFont, sans-serif"
+      font-size="60" font-weight="400"
+      fill="#94a3b8" opacity="0.9"
+      filter="url(#glow)">
+      Data Scientist
+      <animate attributeName="opacity" values="0;0.9" dur="0.8s" begin="0.8s" fill="freeze"/>
+      <animate attributeName="x" values="-60;0" dur="0.8s" begin="0.8s" fill="freeze"/>
+    </text>
+  </g>
+
+  <!-- Tags -->
+  <g id="tags" transform="translate(1400,250)" opacity="0">
+    <rect x="0" y="-50" width="140" height="100" rx="50" fill="none" stroke="url(#neonGrad)" stroke-width="3" opacity="0.6"/>
+    <text x="70" y="22" text-anchor="middle" font-family="'Inter', sans-serif"
+          font-size="44" font-weight="500" fill="#e0e7ff">ML/AI</text>
+    <rect x="170" y="-50" width="170" height="100" rx="50" fill="none" stroke="url(#neonGrad)" stroke-width="3" opacity="0.6"/>
+    <text x="255" y="22" text-anchor="middle" font-family="'Inter', sans-serif"
+          font-size="44" font-weight="500" fill="#e0e7ff">Python</text>
+    <rect x="360" y="-50" width="140" height="100" rx="50" fill="none" stroke="url(#neonGrad)" stroke-width="3" opacity="0.6"/>
+    <text x="430" y="22" text-anchor="middle" font-family="'Inter', sans-serif"
+          font-size="44" font-weight="500" fill="#e0e7ff">Maths</text>
+    <animate attributeName="opacity" values="0;1" dur="1s" begin="1.2s" fill="freeze"/>
+  </g>
+
+  <!-- Línea de progreso animada -->
+  <g transform="translate(0, 480)">
+    <line x1="0" y1="0" x2="2000" y2="0" stroke="#1e293b" stroke-width="7"/>
+    <line x1="0" y1="0" x2="0" y2="0" stroke="url(#neonGrad)" stroke-width="7">
+      <animate attributeName="x2" values="0;2000" dur="3s" begin="1.5s" fill="freeze"/>
+    </line>
+  </g>
+
+  <!-- Partículas flotantes minimalistas -->
+  <g id="particles">
+    <circle cx="180" cy="180" r="3" fill="#8b5cf6" opacity="0.6">
+      <animate attributeName="cy" values="180;420;180" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="420" r="3.5" fill="#06b6d4" opacity="0.4">
+      <animate attributeName="cy" values="420;180;420" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0.1;0.4" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1200" cy="260" r="3" fill="#6366f1" opacity="0.5">
+      <animate attributeName="cy" values="260;400;260" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1800" cy="400" r="3.5" fill="#8b5cf6" opacity="0.3">
+      <animate attributeName="cy" values="400;300;400" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1900" cy="220" r="3" fill="#06b6d4" opacity="0.5">
+      <animate attributeName="cy" values="220;420;220" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1500" cy="120" r="2.5" fill="#8b5cf6" opacity="0.4">
+      <animate attributeName="cy" values="120;470;120" dur="14s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

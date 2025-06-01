@@ -1,47 +1,84 @@
-# Hello there, Im David Soler 👋
+# Hello there! I´m Davo <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" alt="👋" style="vertical-align: middle;"><img src="./assets/sable.svg" width="32" alt="lightsaber" style="vertical-align: middle;">
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=7100&pause=500&color=CF0000&width=500&lines=DATA+SCIENTIST+%26+FUTURE+AI+DEV" alt="Typing SVG" /></a>
-<p align="center">
+![Header](./assets/ds.svg)
 
-🔥 I'm currently working as Data Scientist consultant and instructor at GrowUP Data Analytics.
-💡 Looking to collaborate on new projects and Challenges.
-🤔 I’m looking for help with optimizing Machine Learning algorithms and AI.
-📹 I'm also a musician, you can check out my material above on Spotify.
+## 👀 About Me
+
+#### 🚀  Data Scientist consultant & instructor at GrowUP Data Analytics
+#### 🧑‍🏫  Educational content creator, passionate about sharing knowledge
+#### 🤝  Open to collaborating on innovative projects & exciting challenges
+#### 🧬  Always seeking to optimize ML algorithms & push the boundaries of AI
+#### 🎧  Musician, check out my work on Spotify above!
+#### 🧋  Specialty coffee enthusiast & barista at heart
+#### 🏃‍♂️  High-performance athlete as a triple jumper, driven by discipline
+
+<img width="100%" src="./assets/yo-lof.gif" alt="Lofi Animation">
 
 ## 🛠 Skills
 
-- Python
-- SQL
-- Machine Learning
-- Deep Learning
-- Pytorch
-- TensorFlow
-- Computer Vision
-- ETL/ELT
-- NoSQL
-- Cloud Computing
-- Statistics
-- Aplied mathematics
-- Big data (Apache Systems, Docker)
-- Data Visualization
-- Business Intelligence
-- Storytelling
+<style>
+.skill-icon {
+  transition: transform 0.2s;
+  display: inline-block;
+  margin: 0 8px 12px 8px;
+}
+.skill-icon:hover {
+  transform: scale(1.25);
+}
+</style>
 
-## 👩🏻‍💻 Main skills:
+<p align="center">
+  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" title="Python"/>
+  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" title="SQL"/>
+  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" title="R"/>
+  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" title="TensorFlow"/>
+  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" title="PyTorch"/>
+  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" title="OpenCV"/>
+  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" title="MongoDB"/>
+  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" title="Docker"/>
+  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" title="GCP"/>
+  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" title="Azure"/>
+<img class="skill-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="48" title="AWS"/>
+  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" title="Pandas"/>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=aiscript,r,anaconda,py,sql,vscode,gcp,flask,tensorflow,ubuntu&theme=light)](https://skillicons.dev)
+## 🚀 Other Repositories
 
-## 🔗 Contact me:
+<a href="https://huggingface.co/Davoassassin27">
+  <img src="https://img.shields.io/badge/Hugging%20Face-Profile-violet?logo=huggingface&logoColor=white" alt="Hugging Face" />
+</a>
+<a href="https://github.com/Davoassassin27">
+  <img src="https://img.shields.io/badge/GitHub-Repos-181717?logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://gitlab.com/Davoassassin27">
+  <img src="https://img.shields.io/badge/GitLab-Repos-FC6D26?logo=gitlab&logoColor=white" alt="GitLab" />
+</a>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/david-soler-aa200b240/)
+## 📈 Stats
 
-## ⚡ Fun fact:
+[![GitHub Streak](https://streak-stats.demolab.com?user=Davoassassin27&theme=ambient-gradient&hide_border=true&locale=es)](https://git.io/streak-stats)
 
-I started programming focused on data security at the age of 12, when I participated in math and language tournaments.
+## ⚡ Fun fact
+
+I started programming focused on data security at the age of 12, when I participated in math and language tournaments. 🤓
 
 👩🏻‍💻 + 🎮 + ❤️ + 🧠 = 🎨👌🏼
 
-## Repo languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davoassassin27&layout=compact)
+
+### **May the code be with you** ✨
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE0MDRsc2lpcWllcjA2b3VwZ3UwMTN0OGhrbm53NjRqNGRlN2JmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mQI2sfO7U7MOcxoPdn/giphy.gif" alt="Happy Meditating Yoda" width="200"/>
+
+## 🔗 Contact me
+
+<a href="https://www.linkedin.com/in/david-soler-aa200b240/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:davosoler@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://calendly.com/davosoler/30min">
+  <img src="https://img.shields.io/badge/Calendly-000000?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" />
+</a>
+
+---- 
